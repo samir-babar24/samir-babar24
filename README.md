@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/samir-sudhir-babar-56b527353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-sudhir-babar-56b527353" height="30" width="40" /></a>
 <a href="https://kaggle.com/samirbabar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samirbabar" height="30" width="40" /></a>
 <a href="https://instagram.com/samirrr_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samirrr_96" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samirbabar573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samirbabar573" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@samirbabar573" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samirbabar573" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/samir_babar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samir_babar" height="30" width="40" /></a>
 </p>
 
